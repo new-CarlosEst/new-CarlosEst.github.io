@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>CV - Carlos Esteban Díez</title>
+</head>
+<body>
+  <div id="content">Cargando CV...</div>
+
+  <script>
+    fetch("README.md")
+      .then(response => response.text())
+      .then(text => {
+        // Convertir Markdown a HTML simple (sin librerías externas)
+        document.getElementById("content").innerHTML = "<pre>" + text + "</pre>";
+      });
+  </script>
+</body>
+</html>
