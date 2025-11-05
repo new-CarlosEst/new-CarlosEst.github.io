@@ -54,7 +54,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=new-CarlosEst&layout=compact&langs_count=8&theme=algolia"/>
   </a>
   
-  [![Mi actividad en GitHub](https://github-readme-activity-graph.vercel.app/graph?username=new-CarlosEst&theme=dracula)](https://github.com/new-CarlosEst/github-readme-activity-graph)
+  [![Mi actividad en GitHub](https://github-readme-activity-graph.vercel.app/graph?username=new-CarlosEst&theme=dracula)](https://github.com/new-CarlosEst/github-readme-activity-graph)&nbsp;
 </p>
 <h2></h2>
 <!-- Para conetactarme -->
